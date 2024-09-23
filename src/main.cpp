@@ -74,13 +74,5 @@ void autonomous() {}
  * task, not resume it from where it left off.
  */
 void opcontrol() {
-<<<<<<< Updated upstream
-
-	while (true) {
-		pros::delay(10);                               // Run for 10 ms then update
-=======
-	while (true) {
-    pros::delay(10);
->>>>>>> Stashed changes
-	}
+// im doing licode problems fuck this
 }
